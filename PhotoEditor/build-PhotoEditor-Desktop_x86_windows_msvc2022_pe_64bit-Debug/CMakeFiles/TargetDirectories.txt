@@ -1,0 +1,12 @@
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_qmltyperegistration.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_other_files.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_qmllint.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/all_qmllint.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_tooling.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_qmlimportscan.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_autogen_timestamp_deps.dir
+C:/dev/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/appPhotoEditor_autogen.dir
