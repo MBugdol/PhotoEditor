@@ -1,4 +1,0 @@
-module PhotoEditor
-typeinfo appPhotoEditor.qmltypes
-prefer :/PhotoEditor/
-
