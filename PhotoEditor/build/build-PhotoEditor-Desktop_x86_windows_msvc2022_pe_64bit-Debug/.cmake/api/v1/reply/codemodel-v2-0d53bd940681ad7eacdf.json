@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PhotoEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor-Debug-16d951b42336991aec50.json",
+					"name" : "PhotoEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_autogen-Debug-c1f59d1430c0ab2f6a90.json",
+					"name" : "PhotoEditor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_autogen_timestamp_deps-Debug-df17819256d44aa7d8f2.json",
+					"name" : "PhotoEditor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_other_files-Debug-b99923841e554d31f09f.json",
+					"name" : "PhotoEditor_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_qmlimportscan-Debug-63f52635c3a066d73c7e.json",
+					"name" : "PhotoEditor_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_qmllint-Debug-dc89162eee84d33b0c3f.json",
+					"name" : "PhotoEditor_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_qmltyperegistration-Debug-ab47f86cb12ab768c913.json",
+					"name" : "PhotoEditor_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PhotoEditor_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PhotoEditor_tooling-Debug-70a9099ece2decd42c15.json",
+					"name" : "PhotoEditor_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-95b40a91bb55b7bd1567.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4180ae88d51896b690f2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+		"source" : "C:/dev/PhotoEditor/PhotoEditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

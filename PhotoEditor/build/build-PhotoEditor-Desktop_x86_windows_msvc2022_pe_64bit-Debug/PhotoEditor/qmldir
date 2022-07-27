@@ -1,0 +1,14 @@
+module PhotoEditor
+typeinfo PhotoEditor.qmltypes
+prefer :/PhotoEditor/
+PhotoMenuBar 1.0 qml/menu/PhotoMenuBar.qml
+PhotoToolBar 1.0 qml/menu/PhotoToolBar.qml
+CombinedSlider 1.0 qml/customElements/CombinedSlider.qml
+IntegerInput 1.0 qml/customElements/IntegerInput.qml
+PhotoDialog 1.0 qml/customElements/PhotoDialog.qml
+Section 1.0 qml/customElements/Section.qml
+Separator 1.0 qml/customElements/Separator.qml
+EditView 1.0 qml/view/EditView.qml
+HistoryView 1.0 qml/view/HistoryView.qml
+HistoryFooter 1.0 qml/view/historyViewComponents/HistoryFooter.qml
+

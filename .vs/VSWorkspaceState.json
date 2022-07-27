@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PhotoEditor"
+    "\\PhotoEditor",
+    "\\PhotoEditor\\src"
   ],
-  "SelectedNode": "\\PhotoEditor\\CMakeLists.txt",
+  "SelectedNode": "\\PhotoEditor\\src\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

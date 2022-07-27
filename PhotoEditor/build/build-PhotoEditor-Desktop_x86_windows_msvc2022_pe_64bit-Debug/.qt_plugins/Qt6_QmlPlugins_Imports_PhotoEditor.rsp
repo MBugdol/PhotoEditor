@@ -1,0 +1,12 @@
+-rootPath
+C:/dev/PhotoEditor/PhotoEditor
+-cmake-output
+-output-file
+C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_PhotoEditor.cmake
+-importPath
+C:/Qt/6.3.1/msvc2019_64/./qml
+C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor
+C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug
+-qrcFiles
+C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmake_PhotoEditor.qrc
+C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/PhotoEditor_raw_qml_0.qrc

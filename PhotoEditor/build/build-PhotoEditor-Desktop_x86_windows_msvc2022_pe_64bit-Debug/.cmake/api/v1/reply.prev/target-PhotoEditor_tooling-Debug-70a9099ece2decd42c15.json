@@ -1,0 +1,235 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 626,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 575,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2009,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2012,
+				"parent" : 3
+			}
+		]
+	},
+	"id" : "PhotoEditor_tooling::@6890427a1f51a3e7e1df",
+	"name" : "PhotoEditor_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/menu/PhotoMenuBar.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/menu/PhotoToolBar.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/CombinedSlider.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/IntegerInput.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/PhotoDialog.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/Section.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/Separator.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/EditView.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/HistoryView.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/historyViewComponents/HistoryFooter.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/main.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/menu/PhotoMenuBar.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/menu/PhotoToolBar.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/CombinedSlider.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/IntegerInput.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/PhotoDialog.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/Section.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/customElements/Separator.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/EditView.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/HistoryView.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor/qml/view/historyViewComponents/HistoryFooter.qml.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

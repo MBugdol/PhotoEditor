@@ -1,7 +1,7 @@
 #pragma once
 #include <QUndoCommand>
 #include <QImage>
-#include "PhotoActionData.h"
+#include "src/PhotoActionData.h"
 
 class PhotoEditCommand : public QUndoCommand {
 public:

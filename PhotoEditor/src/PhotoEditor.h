@@ -6,7 +6,7 @@
 #include <QUndoStack>
 #include <QUndoCommand>
 #include <QStack>
-#include "PhotoEditionCommands.h"
+#include "src/PhotoEditionCommands.h"
 
 class PhotoEditor : public QObject
 {

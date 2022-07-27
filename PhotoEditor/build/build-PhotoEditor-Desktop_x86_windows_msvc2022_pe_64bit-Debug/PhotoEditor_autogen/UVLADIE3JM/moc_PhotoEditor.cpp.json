@@ -1,0 +1,206 @@
+{
+    "classes": [
+        {
+            "className": "PhotoEditor",
+            "object": true,
+            "qualifiedClassName": "PhotoEditor",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "updated_preview",
+                            "type": "QImage"
+                        }
+                    ],
+                    "name": "previewUpdated",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "updated_current",
+                            "type": "QImage"
+                        }
+                    ],
+                    "name": "currentUpdated",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "historyUpdated",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "name": "loadFromUrl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "name": "saveToUrl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "action",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "args",
+                            "type": "QStringList"
+                        }
+                    ],
+                    "name": "createAction",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "name": "history",
+                    "returnType": "QList<QObject*>"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "remove",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index1",
+                            "type": "int"
+                        },
+                        {
+                            "name": "index2",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "swap",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "action",
+                            "type": "PhotoEditCommand*"
+                        }
+                    ],
+                    "name": "execute",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "approveChanges",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "undo",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "redo",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "angle",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "rotation",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "orientation",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "flip",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "width",
+                            "type": "int"
+                        },
+                        {
+                            "name": "height",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "scale",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "name": "grayscale",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "hue",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "hueShift",
+                    "returnType": "PhotoEditCommand*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "channel",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "resetColorChannel",
+                    "returnType": "PhotoEditCommand*"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "PhotoEditor.h",
+    "outputRevision": 68
+}

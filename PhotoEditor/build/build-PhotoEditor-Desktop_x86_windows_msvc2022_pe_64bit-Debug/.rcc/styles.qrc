@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">C:/dev/PhotoEditor/PhotoEditor/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

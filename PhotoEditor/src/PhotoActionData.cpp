@@ -1,4 +1,4 @@
-#include "PhotoActionData.h"
+#include "src/PhotoActionData.h"
 
 PhotoActionData::PhotoActionData(const QString& text, const QString& action, const QStringList& args, QObject* parent)
     : QObject(parent), m_text(text), m_action(action), m_args(args) {}

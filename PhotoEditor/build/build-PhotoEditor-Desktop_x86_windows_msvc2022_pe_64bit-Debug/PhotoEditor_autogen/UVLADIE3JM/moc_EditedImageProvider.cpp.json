@@ -1,0 +1,53 @@
+{
+    "classes": [
+        {
+            "className": "EditedImageProvider",
+            "object": true,
+            "qualifiedClassName": "EditedImageProvider",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "previewUpdated",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "currentUpdated",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "image",
+                            "type": "QImage"
+                        }
+                    ],
+                    "name": "updatePreview",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "image",
+                            "type": "QImage"
+                        }
+                    ],
+                    "name": "updateCurrent",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickImageProvider"
+                }
+            ]
+        }
+    ],
+    "inputFile": "EditedImageProvider.h",
+    "outputRevision": 68
+}

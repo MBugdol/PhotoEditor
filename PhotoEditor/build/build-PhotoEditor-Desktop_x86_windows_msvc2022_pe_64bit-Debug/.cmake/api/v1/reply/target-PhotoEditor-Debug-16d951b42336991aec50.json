@@ -1,0 +1,1750 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "PhotoEditor.exe"
+		},
+		{
+			"path" : "PhotoEditor.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"find_dependency",
+			"_qt_internal_find_dependencies",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"set_source_files_properties",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.3.1/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:661:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1125,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 525,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 561,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 526,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 213,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 50,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 56,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 626,
+				"parent" : 14
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 368,
+				"parent" : 15
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 40,
+				"parent" : 10
+			},
+			{
+				"file" : 12,
+				"parent" : 17
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 96,
+				"parent" : 18
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 20
+			},
+			{
+				"file" : 11,
+				"parent" : 21
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 40,
+				"parent" : 22
+			},
+			{
+				"file" : 10,
+				"parent" : 23
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 96,
+				"parent" : 24
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 25
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 26
+			},
+			{
+				"file" : 7,
+				"parent" : 27
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 53,
+				"parent" : 28
+			},
+			{
+				"file" : 6,
+				"parent" : 29
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 56,
+				"parent" : 30
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 50,
+				"parent" : 28
+			},
+			{
+				"file" : 13,
+				"parent" : 32
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 56,
+				"parent" : 33
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 35
+			},
+			{
+				"file" : 15,
+				"parent" : 36
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 53,
+				"parent" : 37
+			},
+			{
+				"file" : 14,
+				"parent" : 38
+			},
+			{
+				"command" : 5,
+				"file" : 14,
+				"line" : 56,
+				"parent" : 39
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 41
+			},
+			{
+				"file" : 17,
+				"parent" : 42
+			},
+			{
+				"command" : 6,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 43
+			},
+			{
+				"file" : 16,
+				"parent" : 44
+			},
+			{
+				"command" : 5,
+				"file" : 16,
+				"line" : 56,
+				"parent" : 45
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 19
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 47
+			},
+			{
+				"file" : 19,
+				"parent" : 48
+			},
+			{
+				"command" : 6,
+				"file" : 19,
+				"line" : 50,
+				"parent" : 49
+			},
+			{
+				"file" : 18,
+				"parent" : 50
+			},
+			{
+				"command" : 5,
+				"file" : 18,
+				"line" : 56,
+				"parent" : 51
+			},
+			{
+				"command" : 6,
+				"file" : 19,
+				"line" : 40,
+				"parent" : 49
+			},
+			{
+				"file" : 22,
+				"parent" : 53
+			},
+			{
+				"command" : 11,
+				"file" : 22,
+				"line" : 96,
+				"parent" : 54
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 14,
+				"parent" : 55
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 47,
+				"parent" : 56
+			},
+			{
+				"file" : 21,
+				"parent" : 57
+			},
+			{
+				"command" : 6,
+				"file" : 21,
+				"line" : 50,
+				"parent" : 58
+			},
+			{
+				"file" : 20,
+				"parent" : 59
+			},
+			{
+				"command" : 5,
+				"file" : 20,
+				"line" : 56,
+				"parent" : 60
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 50,
+				"parent" : 22
+			},
+			{
+				"file" : 23,
+				"parent" : 62
+			},
+			{
+				"command" : 5,
+				"file" : 23,
+				"line" : 56,
+				"parent" : 63
+			},
+			{
+				"command" : 6,
+				"file" : 17,
+				"line" : 50,
+				"parent" : 43
+			},
+			{
+				"file" : 24,
+				"parent" : 65
+			},
+			{
+				"command" : 5,
+				"file" : 24,
+				"line" : 56,
+				"parent" : 66
+			},
+			{
+				"command" : 13,
+				"file" : 5,
+				"line" : 575,
+				"parent" : 15
+			},
+			{
+				"command" : 12,
+				"file" : 5,
+				"line" : 2010,
+				"parent" : 68
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 25,
+				"line" : 1,
+				"parent" : 70
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 681,
+				"parent" : 71
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 617,
+				"parent" : 72
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 617,
+				"parent" : 73
+			},
+			{
+				"command" : 14,
+				"file" : 5,
+				"line" : 2639,
+				"parent" : 74
+			},
+			{
+				"command" : 12,
+				"file" : 5,
+				"line" : 2492,
+				"parent" : 75
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 492,
+				"parent" : 15
+			},
+			{
+				"command" : 19,
+				"file" : 5,
+				"line" : 2319,
+				"parent" : 77
+			},
+			{
+				"command" : 19,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 19,
+				"file" : 5,
+				"line" : 2344,
+				"parent" : 77
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 2140,
+				"parent" : 77
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 1489,
+				"parent" : 81
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 2310,
+				"parent" : 77
+			},
+			{
+				"command" : 23,
+				"file" : 5,
+				"line" : 2334,
+				"parent" : 77
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 536,
+				"parent" : 15
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 340,
+				"parent" : 85
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2184,
+				"parent" : 86
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 1985,
+				"parent" : 87
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 27,
+				"file" : 5,
+				"line" : 1907,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 907,
+				"parent" : 90
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1814,
+				"parent" : 68
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1952,
+				"parent" : 68
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 2028,
+				"parent" : 68
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 340,
+				"parent" : 113
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2184,
+				"parent" : 114
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 1985,
+				"parent" : 115
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-utf-8"
+				},
+				{
+					"fragment" : "-std:c++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/include"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor/&{PhotoEditor_SOURCE_DIR}"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml/6.3.1"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml/6.3.1/QtQml"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore/6.3.1"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore/6.3.1/QtCore"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtOpenGL"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				13,
+				15,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				37,
+				39
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-utf-8"
+				},
+				{
+					"fragment" : "-std:c++17"
+				},
+				{
+					"backtrace" : 84,
+					"fragment" : "/bigobj"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/include"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/dev/PhotoEditor/PhotoEditor/&{PhotoEditor_SOURCE_DIR}"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml/6.3.1"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml/6.3.1/QtQml"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore/6.3.1"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore/6.3.1/QtCore"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtCore"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQml"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 80,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtGui"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/msvc2019_64/include/QtOpenGL"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				12
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 69,
+			"id" : "PhotoEditor_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 76,
+			"id" : "PhotoEditor_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "PhotoEditor_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "PhotoEditor_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "PhotoEditor::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:windows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-DYNAMICBASE",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-NXCOMPAT",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-LARGEADDRESSAWARE",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6Quickd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6QmlModelsd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6Qmld.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6Networkd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "ws2_32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6OpenGLd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 46,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6Guid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6Cored.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "mpr.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "userenv.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 61,
+				"fragment" : "C:\\Qt\\6.3.1\\msvc2019_64\\lib\\Qt6EntryPointd.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 64,
+				"fragment" : "shell32.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "d3d11.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "dxgi.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 67,
+				"fragment" : "dxguid.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "user32.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "PhotoEditor",
+	"nameOnDisk" : "PhotoEditor.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				12,
+				13,
+				15,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				37,
+				39
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				7,
+				9
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10,
+				11,
+				14,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				38,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/EditedImageProvider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/EditedImageProvider.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/PhotoEditor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/PhotoEditor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/PhotoEditionCommands.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/PhotoEditionCommands.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/PhotoActionData.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/PhotoActionData.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "qml/qml.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 82,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/meta_types/qt6photoeditor_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 83,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/photoeditor_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 88,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qrc_qmake_PhotoEditor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "qml/main.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 91,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 92,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/main_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 93,
+			"path" : "qml/menu/PhotoMenuBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 94,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/menu/PhotoMenuBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 95,
+			"path" : "qml/menu/PhotoToolBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 96,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/menu/PhotoToolBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 97,
+			"path" : "qml/customElements/CombinedSlider.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 98,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/CombinedSlider_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 99,
+			"path" : "qml/customElements/IntegerInput.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/IntegerInput_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"path" : "qml/customElements/PhotoDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/PhotoDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 103,
+			"path" : "qml/customElements/Section.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 104,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/Section_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 105,
+			"path" : "qml/customElements/Separator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/Separator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 107,
+			"path" : "qml/view/EditView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 108,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/EditView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 109,
+			"path" : "qml/view/HistoryView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/HistoryView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 111,
+			"path" : "qml/view/historyViewComponents/HistoryFooter.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 112,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/historyViewComponents/HistoryFooter_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 116,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qrc_PhotoEditor_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/CCBC4FUR7J/qrc_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/meta_types/qt6photoeditor_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/photoeditor_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qrc_qmake_PhotoEditor.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/main_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/menu/PhotoMenuBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/menu/PhotoToolBar_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/CombinedSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/IntegerInput_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/PhotoDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/Section_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/customElements/Separator_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/EditView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/HistoryView_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qmlcache/PhotoEditor_qml/view/historyViewComponents/HistoryFooter_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/.rcc/qrc_PhotoEditor_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/CCBC4FUR7J/qrc_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/meta_types/PhotoEditor_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 16,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6quick_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6gui_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6qmlmodels_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 6,
+			"path" : "C:/Qt/6.3.1/msvc2019_64/lib/metatypes/qt6opengl_metatypes.json",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}

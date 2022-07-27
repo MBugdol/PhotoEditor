@@ -1,4 +1,4 @@
-#include "EditedImageProvider.h"
+#include "src/EditedImageProvider.h"
 
 EditedImageProvider::EditedImageProvider()
     : QQuickImageProvider(QQuickImageProvider::Pixmap)

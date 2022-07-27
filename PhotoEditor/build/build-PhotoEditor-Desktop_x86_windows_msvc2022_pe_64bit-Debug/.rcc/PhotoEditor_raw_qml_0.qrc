@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/PhotoEditor/">
+    <file alias="qml/main.qml">C:/dev/PhotoEditor/PhotoEditor/qml/main.qml</file>
+    <file alias="qml/menu/PhotoMenuBar.qml">C:/dev/PhotoEditor/PhotoEditor/qml/menu/PhotoMenuBar.qml</file>
+    <file alias="qml/menu/PhotoToolBar.qml">C:/dev/PhotoEditor/PhotoEditor/qml/menu/PhotoToolBar.qml</file>
+    <file alias="qml/customElements/CombinedSlider.qml">C:/dev/PhotoEditor/PhotoEditor/qml/customElements/CombinedSlider.qml</file>
+    <file alias="qml/customElements/IntegerInput.qml">C:/dev/PhotoEditor/PhotoEditor/qml/customElements/IntegerInput.qml</file>
+    <file alias="qml/customElements/PhotoDialog.qml">C:/dev/PhotoEditor/PhotoEditor/qml/customElements/PhotoDialog.qml</file>
+    <file alias="qml/customElements/Section.qml">C:/dev/PhotoEditor/PhotoEditor/qml/customElements/Section.qml</file>
+    <file alias="qml/customElements/Separator.qml">C:/dev/PhotoEditor/PhotoEditor/qml/customElements/Separator.qml</file>
+    <file alias="qml/view/EditView.qml">C:/dev/PhotoEditor/PhotoEditor/qml/view/EditView.qml</file>
+    <file alias="qml/view/HistoryView.qml">C:/dev/PhotoEditor/PhotoEditor/qml/view/HistoryView.qml</file>
+    <file alias="qml/view/historyViewComponents/HistoryFooter.qml">C:/dev/PhotoEditor/PhotoEditor/qml/view/historyViewComponents/HistoryFooter.qml</file>
+  </qresource>
+</RCC>
+

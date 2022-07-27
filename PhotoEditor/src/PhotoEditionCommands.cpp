@@ -1,4 +1,4 @@
-#include "PhotoEditionCommands.h"
+#include "src/PhotoEditionCommands.h"
 #include <QTransform>
 #include <QVariant>
 

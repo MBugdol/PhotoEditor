@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/PhotoEditor/">
+    <file alias="main.qml">C:/dev/PhotoEditor/PhotoEditor/main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen",
+	"CMAKE_BINARY_DIR" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/dev/PhotoEditor/PhotoEditor",
+	"CMAKE_SOURCE_DIR" : "C:/dev/PhotoEditor/PhotoEditor",
+	"INCLUDE_DIR" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/PhotoEditor_autogen/include",
+	"INPUTS" : [ "C:/dev/PhotoEditor/PhotoEditor/qml/qtquickcontrols2.conf" ],
+	"LOCK_FILE" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/PhotoEditor_autogen.dir/AutoRcc_qml_CCBC4FUR7J_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "CCBC4FUR7J",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/PhotoEditor_autogen.dir/AutoRcc_qml_CCBC4FUR7J_Used.txt",
+	"SOURCE" : "C:/dev/PhotoEditor/PhotoEditor/qml/qml.qrc",
+	"VERBOSITY" : 0
+}

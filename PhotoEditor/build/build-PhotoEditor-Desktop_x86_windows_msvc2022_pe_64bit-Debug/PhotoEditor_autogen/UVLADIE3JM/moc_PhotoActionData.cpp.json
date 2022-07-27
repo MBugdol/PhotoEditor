@@ -1,0 +1,81 @@
+{
+    "classes": [
+        {
+            "className": "PhotoActionData",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "text",
+                    "notify": "textChanged",
+                    "read": "text",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setText"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "action",
+                    "notify": "actionChanged",
+                    "read": "action",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setAction"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "args",
+                    "notify": "argsChanged",
+                    "read": "args",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false,
+                    "write": "setArgs"
+                }
+            ],
+            "qualifiedClassName": "PhotoActionData",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "textChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "actionChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "argsChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "PhotoActionData.h",
+    "outputRevision": 68
+}

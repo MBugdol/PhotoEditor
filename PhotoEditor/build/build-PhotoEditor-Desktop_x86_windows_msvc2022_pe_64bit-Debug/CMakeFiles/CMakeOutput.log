@@ -1,0 +1,63 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.31.31103/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.31.31104 dla x64
+Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.31.31104.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MICROS~2/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_3956c && [1/2] Building CXX object CMakeFiles\cmTC_3956c.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_3956c.exe
+
+
+
+Performing C++ SOURCE FILE Test HAVE_STDATOMIC succeeded with the following output:
+Change Dir: C:/dev/PhotoEditor/PhotoEditor/build/build-PhotoEditor-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MICROS~2/2022/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_ca8d6 && [1/2] Building CXX object CMakeFiles\cmTC_ca8d6.dir\src.cxx.obj
+[2/2] Linking CXX executable cmTC_ca8d6.exe
+
+
+Source file was:
+#include <atomic>
+#include <cstdint>
+
+int main(int, char **)
+{
+    volatile std::atomic<char>    size_1;
+    volatile std::atomic<short>   size_2;
+    volatile std::atomic<int>     size_4;
+    volatile std::atomic<int64_t> size_8;
+
+    ++size_1;
+    ++size_2;
+    ++size_4;
+    ++size_8;
+
+    (void)size_1.load(std::memory_order_relaxed);
+    (void)size_2.load(std::memory_order_relaxed);
+    (void)size_4.load(std::memory_order_relaxed);
+    (void)size_8.load(std::memory_order_relaxed);
+
+    return 0;
+}

@@ -1,0 +1,11 @@
+/PhotoEditor/qml/main.qml
+/PhotoEditor/qml/menu/PhotoMenuBar.qml
+/PhotoEditor/qml/menu/PhotoToolBar.qml
+/PhotoEditor/qml/customElements/CombinedSlider.qml
+/PhotoEditor/qml/customElements/IntegerInput.qml
+/PhotoEditor/qml/customElements/PhotoDialog.qml
+/PhotoEditor/qml/customElements/Section.qml
+/PhotoEditor/qml/customElements/Separator.qml
+/PhotoEditor/qml/view/EditView.qml
+/PhotoEditor/qml/view/HistoryView.qml
+/PhotoEditor/qml/view/historyViewComponents/HistoryFooter.qml

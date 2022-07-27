@@ -1,4 +1,4 @@
-#include "PhotoEditor.h"
+#include "src/PhotoEditor.h"
 #include <QTransform>
 #include <QVariant>
 #include <QHash>
